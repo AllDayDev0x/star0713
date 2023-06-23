@@ -25,5 +25,5 @@ Here are some ideas to get you started:
  - Always hunger to learn the most up-to-date technologies and learn fast
  - Devoting full time and extra service for long-term clients
 
-
+//
 
