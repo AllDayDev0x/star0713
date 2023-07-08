@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💪💪💪 Senior Full Stack | Blockchain Developer 
+# 💪💪💪 Senior Full Stack Developer 
 
 ## ❤️ Work Ethic
  - Honest and hard-working attitude on every projects and services.
